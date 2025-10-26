@@ -4,36 +4,71 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Le Portfolio de Kael Lissarrague</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="CSS/style.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
 
     <header>
-        <h1>Kael LISSARRAGUE</h1>
-        <p>Développeur Full-Stack | Bio-informatique</p>
+        <h1 class="Kael">
+            Kael LISSARRAGUE</h1>
+        <p class="description">
+            Développeur Full-Stack | Bio-informatique</p>
     </header>
 
     <main>
+        <section class="skills">
+            <div class="colonne-gauche">
+                <h2 class="soft-skills-titre">Soft Skills</h2>
+                <ul>
+                    <li class="competence-item">Proactif</li>
+                    <li class="competence-item">Sérieux</li>
+                    <li class="competence-item">Discipliné</li>
+                    <li class="competence-item">Curieux</li>
+                    <li class="competence-item">Adaptable</li>
+
+                </ul>
+            </div>
+            <div class="colonne-centre">
+                <h2 class="centres-interets">Centres d'intérêts</h2>
+                <ul>
+                    <li class="competence-item">Lecture</li>
+                    <li class="competence-item">Développement de jeux vidéos</li>
+                    <li class="competence-item">Réalité Virtuelle / Augmentée</li>
+                </ul>
+            </div>
+            <div class="colonne-droite">
+                <h2 class="autres-competences-titre">Autres Compétences</h2>
+                <ul>
+                    <li class="competence-item">Leadership & Planification</li>
+                    <li class="competence-item">R & Bash</li>
+                </ul>
+            </div>
+
+        </section>
+
         <section class="projets">
             <h2>Mes Projets</h2>
             
             <article class="projet-carte" data-aos="fade-up">
                 <h3>Site de répertoire de livres</h3>
-                <p>Un site développé en HTML, CSS et PHP pour gérer une collection.</p>
-                <a href="#">Voir le projet (bientôt)</a>
+                <p class="card-desc">
+                    Un site développé en HTML, CSS et PHP pour gérer une collection.</p>
+                <a href="#">Voir le projet</a>
             </article>
             
             <article class="projet-carte" data-aos="fade-up">
                 <h3>Jeu de Croisière</h3>
-                <p>Un jeu en Java utilisant la programmation orientée objet.</p>
+                <p class="card-desc">
+                    Un jeu en Java utilisant la programmation orientée objet.</p>
                 <a href="#">Voir sur GitHub</a>
             </article>
         </section>
 
         <section class="contact">
             <h2>Contactez-moi</h2>
-            <p>Email : KaelLissarrague@outlook.com</p>
+            <p class="email">
+                Email : KaelLissarrague@outlook.com</p>
         </section>
     </main>
 
