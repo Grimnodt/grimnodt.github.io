@@ -2,7 +2,8 @@
 
 [Voir le portfolio](https://grimnodt.github.io/)
 
-Développement full-stack, conseil technico-fonctionnel, projets web et 3D.
+Développement logiciel, projets web et 3D, intégration de LLM et coordination d’équipe.
+Mon parcours et mon orientation vers l’intelligence artificielle.
 
 Ce dépôt contient la version compilée du site Angular. GitHub Pages publie les fichiers à la racine de `main`.
 
