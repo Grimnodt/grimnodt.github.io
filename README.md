@@ -8,4 +8,4 @@ Ce dépôt contient la version compilée du site Angular. GitHub Pages publie le
 
 Les images sont optimisées en WebP et les polices sont hébergées localement. Les licences des polices Cormorant Garamond et Manrope sont disponibles dans `fonts/`.
 
-Le CV est disponible sur demande par e-mail ; aucun PDF n’est hébergé ici.
+Mon [CV Développeur Fullstack / DevOps](documents/Kael-Lissarrague-CV-Fullstack-DevOps.pdf) est téléchargeable depuis l’accueil.
