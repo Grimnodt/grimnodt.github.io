@@ -1,9 +1,11 @@
-# Le Grimoire de Kael Lissarrague
+# Portfolio de Kael Lissarrague
 
-Portfolio médiéval : https://grimnodt.github.io/
+[Voir le portfolio](https://grimnodt.github.io/)
 
-Ce dépôt contient les fichiers compilés du site Angular. GitHub Pages publie la racine de la branche `main`.
+Développement full-stack, conseil technico-fonctionnel, projets web et 3D.
 
-Le code source et les instructions de développement sont conservés dans [Grimnodt/Portfolio](https://github.com/Grimnodt/Portfolio).
+Ce dépôt contient la version compilée du site Angular. GitHub Pages publie les fichiers à la racine de `main`.
 
-Pour mettre le site à jour, compiler le dépôt source avec `npm run build`, puis copier le contenu de `dist/Portfolio/browser` (y compris `.nojekyll`) dans ce dépôt avant de commiter et pousser.
+Les images sont optimisées en WebP et les polices sont hébergées localement. Les licences des polices Cormorant Garamond et Manrope sont disponibles dans `fonts/`.
+
+Le CV est disponible sur demande par e-mail ; aucun PDF n’est hébergé ici.
